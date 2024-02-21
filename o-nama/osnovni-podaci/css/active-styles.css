@@ -1,0 +1,595 @@
+/*** Microthemer Styles ***/
+
+/* =Header
+-------------------------------------------------------------- */
+/* Button Nav Phone */
+ header#header a.cmsms_theme_icon_resp_nav {
+}
+
+/* =Main Menu
+-------------------------------------------------------------- */
+/* Novosti Menu */
+ li#menu-item-31 span.nav_bg_clr {
+	background-color: rgb(1, 172, 69) !important;
+}
+/* Novosti Menu ENG Cooperation */
+ li#menu-item-5927 span.nav_bg_clr {
+	background-color: rgb(1, 172, 69) !important;
+}
+/* Novosti Menu Hov */
+ li#menu-item-31 span.nav_bg_hov {
+	background-color: rgb(1, 172, 69) !important;
+}
+/* Novosti Menu Hov ENG Cooperation */
+ li#menu-item-5927 span.nav_bg_hov {
+	background-color: rgb(1, 172, 69) !important;
+}
+/* O Nama Menu */
+ li#menu-item-33 span.nav_bg_clr {
+	background-color: rgb(3, 100, 42) !important;
+}
+/* O Nama Menu ENG About Us */
+ li#menu-item-5783 span.nav_bg_clr {
+	background-color: rgb(3, 100, 42) !important;
+}
+/* O Nama Menu Hov */
+ li#menu-item-33 span.nav_bg_hov {
+	background-color: rgb(3, 100, 42) !important;
+}
+/* O Nama Menu Hov ENG About Us */
+ li#menu-item-5783 span.nav_bg_hov {
+	background-color: rgb(3, 100, 42) !important;
+}
+/* Proizvodi Menu */
+ li#menu-item-793 span.nav_bg_clr {
+	background-color: rgb(1, 137, 55) !important;
+}
+/* Proizvodi Menu ENG  Products */
+ li#menu-item-5795 span.nav_bg_clr {
+	background-color: rgb(1, 137, 55) !important;
+}
+/* Proizvodi Menu Hov */
+ li#menu-item-793 span.nav_bg_hov {
+	background-color: rgb(1, 137, 55) !important;
+}
+/* Proizvodi Menu Hov ENG Products */
+ li#menu-item-5795 span.nav_bg_hov {
+	background-color: rgb(1, 137, 55) !important;
+}
+/* Blog Menu */
+ li#menu-item-30 span.nav_bg_clr {
+	background-color: rgb(37, 199, 103) !important;
+}
+/* Blog Menu Hov */
+ li#menu-item-30 span.nav_bg_hov {
+	background-color: rgb(37, 199, 103) !important;
+}
+/* Saradnja Menu */
+ li#menu-item-7568 span.nav_bg_clr {
+	background-color: rgb(14, 234, 107) !important;
+}
+/* Saradnja Menu Hov */
+ li#menu-item-7568 span.nav_bg_hov {
+	background-color: rgb(14, 234, 107) !important;
+}
+/* Log Podaci Menu */
+ li#menu-item-1270 span.nav_bg_clr {
+	background-color: rgb(246, 211, 20) !important;
+}
+/* Log Podaci Menu Hov */
+ li#menu-item-1270 span.nav_bg_hov {
+	background-color: rgb(246, 211, 20) !important;
+}
+/* Trenutni Jezik Hov */
+ li.wpglobus-current-language span.nav_bg_hov {
+	background-color: rgb(252, 252, 252) !important;
+	border-bottom-color: rgb(235, 235, 235) !important;
+	border-bottom-width: 4px !important;
+	border-bottom-style: solid !important;
+}
+/* Sekundarni Jezik Hov */
+ li.wpglobus-selector-link span.nav_bg_hov {
+	background-color: rgba(252, 252, 252, 0) !important;
+	border-bottom-color: rgb(235, 235, 235) !important;
+	border-bottom-width: 4px !important;
+	border-bottom-style: solid !important;
+}
+/* Trenutni Jezik */
+ li.wpglobus-selector-link span {
+	border-bottom-color: rgb(235, 235, 235) !important;
+	border-bottom-width: 4px !important;
+	border-bottom-style: solid !important;
+}
+/* Trenutni Jezik Natpis */
+ li.wpglobus-current-language
+span.wpglobus_language_full_name {
+	padding-right: 10px !important;
+	margin-left: 8px !important;
+	border-right-color: rgb(192, 191, 191) !important;
+	border-bottom-color: rgb(255, 255, 255) !important;
+	border-right-width: 1px !important;
+	border-bottom-width: 4px !important;
+	border-right-style: solid !important;
+	border-bottom-style: solid !important;
+}
+/* Sekundarni Jezik Natpis */
+ li.menu_item_wpglobus_menu_switch
+span.wpglobus_language_full_name {
+	margin-right: -50px !important;
+	border-right-color: rgb(192, 191, 191) !important;
+	border-bottom-color: rgb(255, 255, 255) !important;
+	border-bottom-width: 4px !important;
+	border-bottom-style: solid !important;
+}
+
+/* =Content
+-------------------------------------------------------------- */
+/* Blog Post Image */
+ a.cmsms_img_link img.wp-post-image {
+	border-left-color: rgba(0, 0, 0, 0) !important;
+	-webkit-border-radius: 10px 10px 0 0 !important;
+	-moz-border-radius: 10px 10px 0 0 !important;
+	border-radius: 10px 10px 0 0 !important;
+}
+/* Blog Author Span */
+ a.author span.fn {
+	color: rgb(1, 54, 21) !important;
+}
+/* Blog Kategorija */
+ span.cmsms_post_category a {
+	color: rgb(1, 54, 21) !important;
+}
+/* Blog Dijamantova Kuhinja Bckg */
+ div.cmsms_post_cont  {
+	color: rgb(255, 255, 255) !important;
+	background-color: rgb(0, 137, 55) !important;
+	border-bottom-color: rgb(0, 137, 55) !important;
+	border-top-style: none !important;
+	border-right-style: none !important;
+	border-bottom-style: solid !important;
+	border-left-style: none !important;
+	-webkit-border-radius: 10px 10px 10px 10px !important;
+	-moz-border-radius: 10px 10px 10px 10px !important;
+	border-radius: 10px 10px 10px 10px !important;
+}
+/* Blog Inner */
+ div.cmsms_post_cont div.cmsms_post_cont_inner {
+	border-top-width: 0px !important;
+}
+/* Blog Title Main */
+ h4.cmsms_post_title a {
+	color: rgb(255, 255, 255) !important;
+}
+/* Novosti Post Main */
+ div.cmsms_slider_post_cont_wrap
+ {
+	padding-left: 0px !important;
+	display: inline !important;
+	overflow: visible !important;
+	overflow-x: visible !important;
+	overflow-y: visible !important;
+	visibility: visible !important;
+	position: relative !important;
+	left: auto !important;
+	z-index: 1 !important;
+}
+/* Novosti Post Title */
+ h3.cmsms_slider_post_title a {
+	color: rgb(2, 66, 26) !important;
+	font-size: 18px !important;
+	line-height: 24px !important;
+	font-weight: 800 !important;
+	vertical-align: baseline !important;
+	margin-top: 10px !important;
+	margin-left: 5px !important;
+	display: block !important;
+	position: static !important;
+	z-index: 1 !important;
+}
+/* Novosti Left */
+ div.cmsms_slider_post_cont span.cmsms_theme_icon_camera {
+	box-sizing: content-box !important;
+	border-right-style: none !important;
+}
+/* Form Button */
+ div.cmsms-form-builder div.submit_wrap {
+	text-align: center !important;
+}
+/* Saveti Toggle Title */
+ div.cmsms_toggle_title a {
+	font-weight: 900 !important;
+}
+/* Novosti Galerija */
+ li.cmsms_gallery_item figure {
+	border-top-color: rgb(235, 235, 235) !important;
+	border-right-color: rgb(235, 235, 235) !important;
+	border-bottom-color: rgb(235, 235, 235) !important;
+	border-left-color: rgb(235, 235, 235) !important;
+}
+/* Newsletter Button ENG */
+ button.yikes-easy-mc-submit-button-2 {
+}
+/* Newsletter Button ENG Box */
+ form#zvijezda-eng-2 button.btn-primary {
+}
+/* Novosti Datum */
+ abbr.published {
+	text-decoration: none !important;
+}
+
+/* =Pages
+-------------------------------------------------------------- */
+/* Blog Main Posts */
+ div.cmsms_post_cont_wrap > div {
+	color: rgb(0, 0, 0) !important;
+	background-color: rgb(255, 255, 255) !important;
+	border-right-style: none !important;
+	border-bottom-style: solid !important;
+}
+/* Novosti Post Main Txt */
+ div.cmsms_slider_post_content p {
+	padding-bottom: 0px !important;
+	margin-left: 5px !important;
+}
+/* History Circle Box All */
+ abbr.published span {
+	margin-top: 6px !important;
+}
+/* History Circle Box Date */
+ abbr.published span.cmsms_day_mon {
+	color: rgb(0, 86, 33) !important;
+	line-height: 5px !important;
+}
+/* Proizvod Log Tab Button */
+ div.product_file_url a {
+	color: rgb(255, 255, 255) !important;
+	font-size: 15px !important;
+	font-weight: 800 !important;
+	background-color: rgb(0, 137, 55) !important;
+	padding-top: 15px !important;
+	padding-right: 15px !important;
+	padding-bottom: 15px !important;
+	padding-left: 15px !important;
+	-webkit-border-radius: 5px 5px 5px 5px !important;
+	-moz-border-radius: 5px 5px 5px 5px !important;
+	border-radius: 5px 5px 5px 5px !important;
+}
+/* Proizvod Log Tab Button Hover */
+ div#product-44 a:hover {
+	color: rgb(209, 239, 221) !important;
+}
+/* Proizvod Did You Know */
+ div.instock div.product_did_you_know {
+	background-color: rgb(240, 255, 216) !important;
+	max-width: 700px !important;
+	padding-top: 15px !important;
+	padding-right: 15px !important;
+	padding-bottom: 15px !important;
+	padding-left: 15px !important;
+	margin-top: 25px !important;
+	border-top-color: rgb(0, 137, 55) !important;
+	border-right-color: rgb(0, 137, 55) !important;
+	border-bottom-color: rgb(0, 137, 55) !important;
+	border-left-color: rgb(0, 137, 55) !important;
+	border-top-width: 1px !important;
+	border-right-width: 1px !important;
+	border-bottom-width: 1px !important;
+	border-left-width: 1px !important;
+	border-top-style: solid !important;
+	border-right-style: solid !important;
+	border-bottom-style: solid !important;
+	border-left-style: solid !important;
+	-webkit-border-radius: 5px 5px 5px 5px !important;
+	-moz-border-radius: 5px 5px 5px 5px !important;
+	border-radius: 5px 5px 5px 5px !important;
+}
+/* Proizvod Did You Know Sign */
+ div#product-44 h4 {
+	font-weight: 900 !important;
+}
+/* Proizvod Divider */
+ div.cmsms_divider_pos_center {
+	padding-top: 30px !important;
+	margin-bottom: 40px !important;
+	border-bottom-color: rgb(234, 234, 234) !important;
+}
+/* Produkt Foto Left */
+ div.cmsms_product_left_column {
+	margin-bottom: 10px !important;
+}
+/* Newsletter Submit Button */
+ button.yikes-easy-mc-submit-button {
+	width: 200px !important;
+}
+/* Newsletter Submit Button Box */
+ form#zvijezda-1 button.btn-primary {
+}
+/* Naslovica Blog Naslovi Header */
+ header.entry-header h4.cmsms_post_title {
+	margin-top: 0px !important;
+}
+
+/* =Posts General
+-------------------------------------------------------------- */
+/* Share This Facebook Icon */
+ span.stMainServices.st-facebook-counter {
+	height: 22px !important;
+}
+/* Share This Twitter Icon */
+ span.stMainServices.st-twitter-counter {
+	height: 22px !important;
+}
+/* Share This Email Icon */
+ span.stMainServices.st-email-counter {
+	height: 22px !important;
+}
+/* Share This Number Count */
+ span.stButton_gradient.stHBubble {
+	height: 22px !important;
+}
+/* Share This Pinterest Icon */
+ span.stMainServices.st-pinterest-counter {
+	height: 22px !important;
+	margin-left: -15px !important;
+}
+/* Naziv Rubrike */
+ div.headline_text h1.entry-title {
+}
+/* Rubrika Podnaslov */
+ div.headline_subtitle h5 {
+}
+/* Naslov Teksta A */
+ h2.entry-title a {
+}
+
+/* =Post Navigation
+-------------------------------------------------------------- */
+/* Product Tags */
+ div.instock div.cmsms_product_right_column {
+	margin-bottom: 0px !important;
+}
+
+/* =Sidebar
+-------------------------------------------------------------- */
+/* Zadnje Novosti Pic */
+ aside#latest_post_from_category-3 img {
+	margin-top: 20px !important;
+	margin-bottom: 5px !important;
+}
+/* Zadnje Novosti Pic Blog */
+ aside#latest_post_from_category-2 img {
+	margin-top: 20px !important;
+	margin-bottom: 5px !important;
+}
+/* Zadnje Novosti Widget Datum */
+ aside#custom-posts-tabs-3 small {
+	font-size: 12px !important;
+	margin-right: 629px !important;
+}
+/* Zadnje Novosti Widget Naslov */
+ aside#latest_post_from_category-3 a {
+	font-weight: 600 !important;
+	max-width: 200px !important;
+}
+/* Zadnje Novosti Widget Naslov Blog */
+ aside#latest_post_from_category-2 a {
+	font-weight: 600 !important;
+	max-width: 200px !important;
+}
+/* Top Proizvodi Sidebar Naslov */
+ aside.woocommerce h3.widgettitle {
+	margin-top: 40px !important;
+	border-bottom-color: rgb(247, 247, 247) !important;
+}
+
+
+
+
+/* Large Desktop
+************************************************************************/
+@media (min-width: 1200px) {
+
+	/* =Content
+	-------------------------------------------------------------- */
+	/* Newsletter Button ENG Box */
+	 form#zvijezda-eng-2 button.btn-primary {
+		margin-left: 40% !important;
+	}
+
+	/* =Pages
+	-------------------------------------------------------------- */
+	/* Newsletter Submit Button Box */
+	 form#zvijezda-1 button.btn-primary {
+		margin-left: 40% !important;
+	}
+}
+
+
+
+/* Desktop & Tablet
+************************************************************************/
+@media (min-width: 768px) and (max-width: 979px) {
+
+	/* =Header
+	-------------------------------------------------------------- */
+	/* Button Nav Phone */
+	 header#header a.cmsms_theme_icon_resp_nav {
+		background-color: rgb(0, 89, 35) !important;
+		width: 50px !important;
+		height: 50px !important;
+	}
+
+	/* =Main Menu
+	-------------------------------------------------------------- */
+	/* Pozadina Ispod Jezika */
+	 li.menu_item_wpglobus_menu_switch span {
+		border-bottom-color: rgba(255, 255, 255, 0) !important;
+		border-bottom-width: 0px !important;
+	}
+
+	/* =Content
+	-------------------------------------------------------------- */
+	/* Newsletter Button ENG Box */
+	 form#zvijezda-eng-2 button.btn-primary {
+		margin-left: 40% !important;
+	}
+
+	/* =Pages
+	-------------------------------------------------------------- */
+	/* Newsletter Submit Button Box */
+	 form#zvijezda-1 button.btn-primary {
+		margin-left: 40% !important;
+	}
+}
+
+
+
+/* Tablet & Phone
+************************************************************************/
+@media (max-width: 767px) {
+
+	/* =Header
+	-------------------------------------------------------------- */
+	/* Button Nav Phone */
+	 header#header a.cmsms_theme_icon_resp_nav {
+		background-color: rgb(0, 89, 35) !important;
+		width: 50px !important;
+		height: 50px !important;
+	}
+
+	/* =Main Menu
+	-------------------------------------------------------------- */
+	/* Pozadina Ispod Jezika */
+	 li.menu_item_wpglobus_menu_switch span {
+		border-bottom-color: rgba(255, 255, 255, 0) !important;
+		border-bottom-width: 0px !important;
+	}
+
+	/* =Content
+	-------------------------------------------------------------- */
+	/* Newsletter Button ENG Box */
+	 form#zvijezda-eng-2 button.btn-primary {
+		height: 18px !important;
+		min-height: 18px !important;
+		box-sizing: content-box !important;
+		margin-bottom: 20px !important;
+		position: relative !important;
+		top: 17px !important;
+	}
+
+	/* =Pages
+	-------------------------------------------------------------- */
+	/* Newsletter Submit Button Box */
+	 form#zvijezda-1 button.btn-primary {
+		width: 200px !important;
+		height: 18px !important;
+		min-height: 18px !important;
+		box-sizing: content-box !important;
+		margin-bottom: 20px !important;
+		position: relative !important;
+		top: 18px !important;
+	}
+}
+
+
+
+/* Phone
+************************************************************************/
+@media (max-width: 767px) {
+
+	/* =Main Menu
+	-------------------------------------------------------------- */
+	/* Trenutni Jezik Hov */
+	 li.wpglobus-current-language span.nav_bg_hov {
+		border-bottom-width: 0px !important;
+	}
+	/* Trenutni Jezik Natpis */
+	 li.wpglobus-current-language
+span.wpglobus_language_full_name {
+		font-weight: bold !important;
+		margin-left: 0px !important;
+		border-right-width: 0px !important;
+	}
+	/* Sekundarni Jezik Hov */
+	 li.wpglobus-selector-link span.nav_bg_hov {
+		border-bottom-width: 0px !important;
+	}
+	/* Trenutni Jezik */
+	 li.wpglobus-selector-link span {
+		border-bottom-width: 0px !important;
+	}
+	/* Sekundarni Jezik Natpis */
+	 li.menu_item_wpglobus_menu_switch
+span.wpglobus_language_full_name {
+		font-weight: bold !important;
+		border-bottom-width: 0px !important;
+	}
+	/* Pozadina Ispod Jezika */
+	 li.menu_item_wpglobus_menu_switch span {
+		border-bottom-color: rgba(255, 255, 255, 0) !important;
+		border-bottom-width: 0px !important;
+	}
+
+	/* =Header
+	-------------------------------------------------------------- */
+	/* Button Nav Phone */
+	 header#header a.cmsms_theme_icon_resp_nav {
+		background-color: rgb(0, 89, 35) !important;
+		width: 50px !important;
+		height: 50px !important;
+	}
+
+	/* =Posts General
+	-------------------------------------------------------------- */
+	/* Share This Pinterest Icon */
+	 span.stMainServices.st-pinterest-counter {
+	}
+	/* Naziv Rubrike */
+	 div.headline_text h1.entry-title {
+		font-size: 40px !important;
+		line-height: 44px !important;
+	}
+	/* Rubrika Podnaslov */
+	 div.headline_subtitle h5 {
+		line-height: 20px !important;
+		margin-top: 10px !important;
+	}
+	/* Naslov Teksta */
+	 h2.entry-title {
+		font-size: 24px !important;
+		line-height: 28px !important;
+	}
+	/* Naslov Teksta A */
+	 h2.entry-title a {
+		font-size: 24px !important;
+		line-height: 28px !important;
+	}
+
+	/* =Post Navigation
+	-------------------------------------------------------------- */
+	/* Sec Menu */
+	 ul.navigation-secondary li.menu-item-object-page {
+		width: 100% !important;
+		height: 50px !important;
+		border-bottom-color: rgb(200, 200, 200) !important;
+		border-bottom-width: 1px !important;
+		border-bottom-style: solid !important;
+			background: -webkit-gradient(linear, center top, center bottom, from(rgb(255, 255, 255)), color-stop(90%, rgb(237, 237, 237)), to(rgb(237, 237, 237))) !important;
+		background: -webkit-linear-gradient(-90deg, rgb(255, 255, 255), rgb(237, 237, 237) 90%, rgb(237, 237, 237)) !important;
+		background: -moz-linear-gradient(-90deg, rgb(255, 255, 255), rgb(237, 237, 237) 90%, rgb(237, 237, 237)) !important;
+		background: -ms-linear-gradient(-90deg, rgb(255, 255, 255), rgb(237, 237, 237) 90%, rgb(237, 237, 237)) !important;
+		background: -o-linear-gradient(-90deg, rgb(255, 255, 255), rgb(237, 237, 237) 90%, rgb(237, 237, 237)) !important;
+		background: linear-gradient(180deg, rgb(255, 255, 255), rgb(237, 237, 237) 90%, rgb(237, 237, 237)) !important;
+		-pie-background: linear-gradient(-90deg, rgb(255, 255, 255), rgb(237, 237, 237) 90%, rgb(237, 237, 237)) !important;
+	}
+	/* Sec Menu Item */
+	 ul.navigation-secondary li.menu-item a {
+		font-size: 18px !important;
+		font-weight: 700 !important;
+		text-align: center !important;
+		padding-top: 15px !important;
+	}
+	/* Product Tags */
+	 div.instock div.cmsms_product_right_column {
+	}
+}
